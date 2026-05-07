@@ -4,7 +4,7 @@
   <img src="/Pictures/banner.svg" alt="CS-PDF2EXCEL banner" width="100%"/>
 </p>
 
-Convert a Cobalt Strike **Sessions Report** PDF into a clean, multi-sheet Excel workbook for filtering, pivoting, and reporting.
+Convert a [Cobalt Strike](https://www.cobaltstrike.com/) **Sessions Report** PDF into a clean, multi-sheet Excel workbook for filtering, pivoting, and reporting.
 
 ## Features
 
