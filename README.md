@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python pdf_to_excel.py <input.pdf> [output.xlsx]
+python CS-PDF2EXCEL.py <input.pdf> [output.xlsx]
 ```
 
 If the output path is omitted, the workbook is written next to the input PDF using the same base name (e.g. `sessionsreport.pdf` -> `sessionsreport.xlsx`).
@@ -44,10 +44,10 @@ If the output path is omitted, the workbook is written next to the input PDF usi
 
 ```bash
 # Default output (sessionsreport.xlsx alongside the PDF)
-python pdf_to_excel.py sessionsreport.pdf
+python3 CS-PDF2EXCEL.py sessionsreport.pdf
 
 # Explicit output path
-python pdf_to_excel.py sessionsreport.pdf out/report.xlsx
+python3 CS-PDF2EXCEL.py sessionsreport.pdf out/report.xlsx
 ```
 
 ### Sample output
